@@ -26,7 +26,7 @@ public class Solution12 {
 //        Read rate of interest (in %) (double)
 //        Divide RoI by 100
 //        Read time (in years)
-//        Amount = principle(1 + RoI * time)
+//        amount = principal * (1 + rateOfInterest * time)
 //        Check if (amount % .01) > 0
 //            Round up one cent
 //        Print amount
