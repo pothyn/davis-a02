@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Solution15 {
+public class Solution16 {
 
     private static final Scanner in = new Scanner(System.in);
 
