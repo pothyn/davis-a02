@@ -2,7 +2,35 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/exercise06/.gradle/7.1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise06/.gradle/7.1/vcsMetadata-1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise06/.gradle/buildOutputCleanup" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise06/.gradle/checksums" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise06/.gradle/vcs-1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise06/build" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise06/build/generated" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise07/.gradle/7.1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise07/.gradle/7.1/vcsMetadata-1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise07/.gradle/buildOutputCleanup" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise07/.gradle/checksums" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise07/.gradle/vcs-1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise07/build" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise07/build/generated" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/.gradle/7.1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/.gradle/7.1/vcsMetadata-1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/.gradle/buildOutputCleanup" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/.gradle/checksums" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/.gradle/vcs-1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/build" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/build/generated" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise08/build/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise09/.gradle/7.1" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise09/.gradle/buildOutputCleanup" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise09/.gradle/checksums" />
+      <excludeFolder url="file://$MODULE_DIR$/exercise09/.gradle/vcs-1" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
