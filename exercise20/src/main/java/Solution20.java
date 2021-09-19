@@ -63,6 +63,8 @@ public class Solution20 {
 
         // Total Calculations and print
         total = tax * amount;
+        if(total % .01 > 0)
+            total += .01;
         System.out.printf("The total is $%.2f.",total);
 
     }

@@ -1,0 +1,13 @@
+
+b
+java:S1659!"@Declare "tax" and all following declarations on a separate line.(íÖÇ¿ÿÿÿÿÿ8›¿°ø¿/
+F
+java:S1659""$Declare "county" on a separate line.(«êÖÿÿÿÿÿ8›¿°ø¿/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(İ©ÕÓşÿÿÿÿ8œ¿°ø¿/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ß˜Üñùÿÿÿÿ8¿°ø¿/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(åİŒÖ8¿°ø¿/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(â¼—ªıÿÿÿÿ8¿°ø¿/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(â¼—ªıÿÿÿÿ8¿°ø¿/
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Æ³À¶8Ÿ¿°ø¿/
+0
+java:S1220""Move this file to a named package.
