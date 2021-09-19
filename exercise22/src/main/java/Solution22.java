@@ -5,8 +5,6 @@
 
 import java.util.Scanner;
 
-import java.lang.System;
-
 public class Solution22 {
 
     private static final Scanner in = new Scanner(System.in);
@@ -44,7 +42,7 @@ public class Solution22 {
 
         // Multiple ways to interpret difference in all numbers (could also be if(a == b || b == c || a == c) )
         if(a == b && b == c)
-            System.exit(2);
+            System.exit(1);
 
         // Sort
         if(a > b && a > c)
