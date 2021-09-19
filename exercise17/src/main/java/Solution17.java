@@ -90,7 +90,7 @@ public class Solution17 {
         bloodAlcoholContent = (ozOfAlcohol * 5.14 / weight * genderRate) - (.015 * hoursSinceLastDrink);
 
         // Print BAC and if you can drive legally
-        System.out.printf("Your BAC is %.6f\n", bloodAlcoholContent);
+        System.out.printf("Your BAC is %.6f%n", bloodAlcoholContent);
         System.out.println(bloodAlcoholContent > .08 ? "It is legal for you to drive." : "It is not legal for you to drive.");
 
     }
